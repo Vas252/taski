@@ -12,6 +12,9 @@ command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 cryptography==3.4.8
+Django==3.2.16
+djangorestframework==3.12.4
+django-cors-headers==3.13.0
 dbus-python==1.2.18
 distro==1.7.0
 distro-info===1.1build1
@@ -39,6 +42,7 @@ netifaces==0.11.0
 oauthlib==3.2.0
 pexpect==4.8.0
 ptyprocess==0.7.0
+psycopg2-binary==2.9.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.1
 pycodestyle==2.10.0
